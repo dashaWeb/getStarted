@@ -2,9 +2,7 @@
     "name": "gulp-scss-starter",
     "description": "Frontend development with pleasure",
     "author": "Andrey Gorokhov",
-    "repository": {
-       
-    },
+    "repository": {},
     "license": "MIT",
     "scripts": {
         "dev": "gulp",
